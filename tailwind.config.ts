@@ -61,6 +61,18 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				wore: {
+					background: '#36393F',
+					darker: '#2F3136',
+					lighter: '#40444B',
+					accent: '#7289DA',
+					'accent-hover': '#677BC4',
+					text: '#DCDDDE',
+					'text-muted': '#72767D',
+					'text-bright': '#FFFFFF',
+					online: '#43B581',
+					offline: '#747F8D'
 				}
 			},
 			borderRadius: {
